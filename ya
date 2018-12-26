@@ -1,0 +1,47 @@
+{
+  "username": "Welcomes",
+  "avatar_url": "https://i.imgur.com/LqduuSu.png",
+  "content": "Text message. Up to 2000 characters.",
+  "embeds": [
+    {
+      "author": {
+        "name": "ChromeFuzz",
+        "url": "",
+        "icon_url": "https://i.imgur.com/VSRk4QX.png"
+      },
+      "title": "Welcome user!",
+      "description": "Not too much to go through, so stay with me!",
+      "color": 15258703,
+      "fields": [
+        {
+          "name": "First",
+          "value": "This is for the game Lordz.io",
+          "inline": true
+        },
+        {
+          "name": "Second",
+          "value": "We will rule the kingdoms",
+          "inline": true
+        },
+        {
+          "name": "Finally",
+          "value": "No cursing, there is no point to"
+        },
+        {
+          "name": "Thanks for reading!",
+          "value": ""
+        }
+      ],
+      "thumbnail": {
+        "url": ""
+      },
+      "image": {
+        "url": ""
+      },
+      "footer": {
+        "text": "",
+        "icon_url": "https://i.imgur.com/LqduuSu.png"
+      }
+    }
+  ]
+}
